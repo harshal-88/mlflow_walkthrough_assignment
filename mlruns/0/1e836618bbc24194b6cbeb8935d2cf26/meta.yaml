@@ -1,0 +1,15 @@
+artifact_uri: mlruns/0/1e836618bbc24194b6cbeb8935d2cf26/artifacts
+end_time: 1661749267984
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 1e836618bbc24194b6cbeb8935d2cf26
+run_uuid: 1e836618bbc24194b6cbeb8935d2cf26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1661749262072
+status: 3
+tags: []
+user_id: harshal.pawar
